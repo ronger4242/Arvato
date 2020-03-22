@@ -1,19 +1,19 @@
 # Installation
 Python 3.x is required to run this Project. The following libraries are used:
-•	numpy<br/>
-•	pandas <br/>
-•	matplotlib<br/>
-•	seaborn<br/>
-•	sklearn.impute<br/>
-•	sklearn.preprocessing<br/>
-•	sklearn.decomposition<br/>
-•	sklearn.cluster<br/>
-•	sklearn.model_selection<br/>
-•	sklearn.ensemble<br/>
-•	sklearn.neighbors<br/>
-•	sklearn.linear_model<br/>
-•	sklearn.metrics<br/>
-•	os<br/>
+*	numpy<br/>
+*	pandas <br/>
+*	matplotlib<br/>
+*	seaborn<br/>
+*	sklearn.impute<br/>
+*	sklearn.preprocessing<br/>
+*	sklearn.decomposition<br/>
+*	sklearn.cluster<br/>
+*	sklearn.model_selection<br/>
+*	sklearn.ensemble<br/>
+*	sklearn.neighbors<br/>
+*	sklearn.linear_model<br/>
+*	sklearn.metrics<br/>
+*	os<br/>
 
 # Project Motivation
 How to reach the target market effectively is critical for business success. The goal of this capstone project is to apply both unsupervised and supervised learning of a mail-order sales company to help identify who are more likely to become customers among general population in Germany. 
